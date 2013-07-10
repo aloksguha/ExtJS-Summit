@@ -23,7 +23,7 @@ How to run this project
   * Install NodeJS from http://nodejs.org/
  * Clone Repository and start Server
   * git clone https://github.com/Synerzip/NodeJS-NoSQL-Summit.git
-  * $>cd NodeJS-NoSQL-Summit
+  * $>cd ExtJS-Summit
   * $>npm install
   * $>npm start
  * Setup Chrome Browser
