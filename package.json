@@ -1,0 +1,38 @@
+{
+    "name":"ExtJS-Summit",
+    "version": "0.0.1",
+    "dependencies":{
+        "express": "latest",
+        "ejs": "latest",
+        "bower":"latest",
+        "moment" : "latest",
+        "emailjs": "latest",
+        "mongoose":"latest",
+        "bcrypt" : "latest",
+        "connect-mongo": "latest",
+        "connect-flash": "latest",
+        "passport": "latest",
+        "passport-local": "latest",
+        "passport-google-oauth":"latest",
+        "passport-twitter":"latest",
+        "passport-facebook":"latest",
+        "passport-linkedin":"latest",
+        "underscore":"latest" ,
+        "view-helpers": "latest",
+        "async":"latest"
+
+    },
+    "devDependencies":{
+        "mocha":"latest",
+        "supertest":"latest",
+        "should":"latest",
+        "restler":"latest"
+    },
+    "engines":{
+        "node":"0.8.x",
+        "npm":"1.1.x"
+    },
+    "scripts":{
+        "start": "node server.js"
+    }
+}
