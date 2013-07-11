@@ -16,6 +16,8 @@ How to run this project
 ------
  * Setup WebStorm IDE
   * Install WebStorm IDE from http://www.jetbrains.com/webstorm/
+ * download EXT libs from
+   * http://www.sencha.com/products/extjs/download
  * Step up MongoDB
   * Install Latest MongoDB from http://www.mongodb.org/downloads
   * Follow MongoDB installation instructions - http://docs.mongodb.org/manual/installation/#gsc.tab=0
